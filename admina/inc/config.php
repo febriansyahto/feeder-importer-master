@@ -3,12 +3,13 @@ date_default_timezone_set('Asia/Jakarta');
 ini_set( "display_errors", true );
 define( "HOST", "localhost" );
 //nama database
-define( "DATABASE_NAME", "feeder_free_production" );
-define( "DB_USERNAME", "root" );
+define( "DATABASE_NAME", "arfanetn_importer" );
+// define( "DATABASE_NAME", "feeder_free_production" );
+define( "DB_USERNAME", "arfanetn_importer" );
 
 define( "PORT", 3306);
 //password mysql
-define( "DB_PASSWORD", "" );
+define( "DB_PASSWORD", "importer@123" );
 //dir admin
 define( "DIR_ADMIN", "feeder-production/admina/");
 //main directory
