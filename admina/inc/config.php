@@ -8,7 +8,7 @@ define( "DATABASE_NAME", "arfanetn_importer" );
 // define( "DATABASE_NAME", "feeder_free_production" );
 define( "DB_USERNAME", "arfanetn_importer" );
 
-// define( "PORT", 3306);
+define( "PORT", 3306);
 //password mysql
 define( "DB_PASSWORD", "importer@123" );
 //dir admin
