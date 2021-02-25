@@ -1,7 +1,8 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 ini_set( "display_errors", true );
-define( "HOST", "localhost" );
+define( "HOST", "103.147.154.42" );
+//define( "HOST", "localhost" );
 //nama database
 define( "DATABASE_NAME", "arfanetn_importer" );
 // define( "DATABASE_NAME", "feeder_free_production" );
